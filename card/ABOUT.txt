@@ -1,0 +1,2 @@
+This is a professional card designed and implemented using only HTML5 + CSS3
+The animation is controlled by CSS. No JavaScript or other language is used.
